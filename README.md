@@ -1,3 +1,4 @@
 # BrainStones.cpp
-BrainStones Game <br>
+BrainStones Game.
+<br>
 Author - Om Jadhav
